@@ -40,6 +40,12 @@ O **Musical Keyboard** é uma aplicação web que permite tocar notas musicais d
 
 <br>
 
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://musicalkeyboard-caps.netlify.app).
+
+<br>
+
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT.
