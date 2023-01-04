@@ -16,7 +16,7 @@ Curso de Manipulação da DOM com JS realizado pela Rocketseat.
 </p>
 
 <p align="center">
-  <img alt="Projeto" src="img/desktop.png">
+  <img alt="Projeto" src="desktop.png">
 </p>
 
 <br>
